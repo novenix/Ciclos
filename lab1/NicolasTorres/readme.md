@@ -40,5 +40,6 @@ miTitulo.textContent = '¡Hola mundo!';
 ![](https://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/36035/user/icon/enlightlite/f1?rev=304202)
 
 ## fotos punto 3 individual
-![](lab1\Nicolas Torres\Captura.PNG)
-![](lab1\Nicolas Torres\2.PNG)
+![](/lab1/NicolasTorres/Captura.PNG)
+
+![](/lab1/NicolasTorres/2.PNG)
