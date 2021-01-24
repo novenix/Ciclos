@@ -1,4 +1,4 @@
-# Respuestas de preguntas trabajo en grupo pinto 1
+# Respuestas de preguntas trabajo en grupo punto 1
 ### las dos parejas lo pudieron hacer?
 no porque una pareja hace el push, y luego se generan conflictos y hay que elegir con cual de los dos cambios se va a quedar.para solucionarlos hay que hacer pull y luego hacer los cambios faltantes de la segunda pareja
 ### Que quedó en la version final?
