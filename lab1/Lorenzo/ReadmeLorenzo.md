@@ -39,4 +39,6 @@ def MatrizConjugada(mat):
 
    return mat
 ~~~ 
-
+# Evidencias
+-![](/lab1/Lorenzo/1.PNG)
+-![](/lab1/Lorenzo/2.PNG)
